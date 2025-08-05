@@ -98,14 +98,15 @@ Pantalla Principal
 
 
 
-<img width="574" height="337" alt="Captura de pantalla 2025-08-04 191136" src="https://github.com/user-attachments/assets/0e37db56-dbb1-4fdb-9010-eefaf21d305e" />
+<img width="833" height="583" alt="Captura de pantalla 2025-08-04 191052" src="https://github.com/user-attachments/assets/fc677073-fd11-4989-816e-2bb37e493a14" />
 
 Gestión de Clientes
 
 
 
 
-<img width="833" height="583" alt="Captura de pantalla 2025-08-04 191052" src="https://github.com/user-attachments/assets/fc677073-fd11-4989-816e-2bb37e493a14" />
+<img width="574" height="337" alt="Captura de pantalla 2025-08-04 191136" src="https://github.com/user-attachments/assets/0e37db56-dbb1-4fdb-9010-eefaf21d305e" />
+
 
 
 Órdenes de Trabajo
