@@ -1,7 +1,7 @@
 # Taller Automotriz
 > Aplicación de escritorio en Java Swing para gestionar clientes, vehículos, servicios y órdenes de trabajo de un taller automotriz, con persistencia en archivos CSV.
 
-## 🇪🇸 Español
+## Español
 
 ### ¿Qué es?
 
@@ -236,7 +236,7 @@ Taller-Automotriz/
 - Añadir pruebas unitarias con JUnit y migrar el build a Maven o Gradle.
 - Separar la lógica de la vista y centralizar la carga inicial en un servicio de aplicación.
 
-## 🇬🇧 English
+## English
 
 ### What is it?
 
